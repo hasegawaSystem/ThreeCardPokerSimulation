@@ -1,0 +1,1 @@
+左から順に、P1, P2, P3, D1, D2, D3, Phand, Dhand, result
