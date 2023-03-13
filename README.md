@@ -1,2 +1,4 @@
-# hasegawaTest
-接続テスト用
+# ThreeCardPokerSimulation
+スリーカードポーカーにおける最適な戦法を探るためのシミュレーションです。
+
+
